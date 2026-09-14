@@ -1,0 +1,242 @@
+[
+  {
+    "diseaseName": "Koleroga (Fruit rot)",
+    "precautions": ["Improve drainage in the plantation", "Remove and burn fallen infected nuts", "Avoid overhead irrigation during monsoon"],
+    "dosage": ["Spray 1% Bordeaux mixture on bunches at onset of monsoon", "Repeat spray after 40 days if rainfall is heavy"],
+    "notes": "Caused by Phytophthora fungus; timing the first spray just before monsoon onset is more effective than spraying after symptoms appear."
+  },
+  {
+    "diseaseName": "Yellow Leaf Disease",
+    "precautions": ["Use disease-free planting material", "Maintain balanced fertilization", "Isolate and rogue severely affected palms"],
+    "dosage": ["No direct chemical cure available", "Manage suspected insect vectors with recommended systemic insecticide"],
+    "notes": "A phytoplasma disease with no curative treatment - management is preventive and vector-control focused. Consult a local agricultural extension officer."
+  },
+  {
+    "diseaseName": "Bud rot",
+    "precautions": ["Ensure good field drainage", "Avoid injury to the crown region during intercultural operations"],
+    "dosage": ["Remove and destroy affected bud tissue", "Apply Bordeaux paste to the wound after removal"],
+    "notes": "Caught early (before the spindle leaf collapses), palms can often be saved. Affects both arecanut and coconut."
+  },
+  {
+    "diseaseName": "Anthracnose",
+    "precautions": ["Prune for good air circulation", "Avoid overhead irrigation", "Remove and destroy infected plant debris"],
+    "dosage": ["Spray Copper oxychloride (0.3%) at 15-day intervals during flowering/fruiting", "Alternate with Carbendazim if resistance is suspected"],
+    "notes": "One of the most common fungal diseases across many crops; early-season preventive spraying is more effective than treating visible lesions."
+  },
+  {
+    "diseaseName": "Anthracnose (fruit rot)",
+    "precautions": ["Avoid water stress and overhead irrigation", "Harvest promptly to avoid overripe fruit on the plant"],
+    "dosage": ["Spray Carbendazim (0.1%) or Copper oxychloride (0.3%) at fruit-set stage", "Repeat every 10-15 days in humid conditions"],
+    "notes": "Particularly aggressive on chilli, okra, and papaya in warm, humid conditions - post-harvest handling matters as much as field spraying."
+  },
+  {
+    "diseaseName": "Powdery mildew",
+    "precautions": ["Avoid dense planting/overcrowding", "Ensure adequate sunlight exposure"],
+    "dosage": ["Spray Wettable sulfur (0.2%) at first sign of white powdery patches", "Avoid sulfur spray in very high temperatures - can scorch leaves"],
+    "notes": "A very common fungal disease across many crops (cashew, chilli, papaya, okra, cucumber, cabbage relatives, marigold, rose) - the same basic treatment works across most of them."
+  },
+  {
+    "diseaseName": "Tea mosquito bug damage",
+    "precautions": ["Monitor flush and flowering stages closely - highest-risk periods", "Maintain field hygiene, remove alternate host weeds nearby"],
+    "dosage": ["Spray a recommended systemic insecticide (e.g. Imidacloprid) at early flush stage", "Repeat as per product label during flowering"],
+    "notes": "Technically a pest, not a disease, but a major cashew yield-loss factor - included here since it presents visually similar to disease damage."
+  },
+  {
+    "diseaseName": "Early blight",
+    "precautions": ["Practice crop rotation - avoid planting tomato/potato in the same spot yearly", "Stake plants to improve airflow", "Remove lower infected leaves promptly"],
+    "dosage": ["Spray Mancozeb (0.25%) at 10-day intervals", "Begin spraying preventively once fruiting starts in high-risk seasons"],
+    "notes": "Favored by warm, humid weather with intermittent dry spells. Affects both tomato and potato."
+  },
+  {
+    "diseaseName": "Late blight",
+    "precautions": ["Use resistant/tolerant varieties where available", "Avoid overhead irrigation, especially in the evening", "Destroy volunteer potato/tomato plants nearby"],
+    "dosage": ["Spray Copper oxychloride (0.3%) or Metalaxyl+Mancozeb combination at first sign", "Spray preventively before/during cool, wet weather"],
+    "notes": "Can destroy a crop within days in favorable (cool, wet) conditions. Affects both tomato and potato."
+  },
+  {
+    "diseaseName": "Bacterial wilt",
+    "precautions": ["Use resistant rootstock/varieties where available", "Practice long crop rotation (3-4 years) with non-host crops", "Avoid working in fields when plants are wet"],
+    "dosage": ["No effective chemical cure once infected", "Remove and destroy infected plants immediately to slow spread"],
+    "notes": "Soil-borne and highly persistent - affects tomato, brinjal, and ginger. Prevention through rotation and resistant varieties matters far more than any in-season treatment."
+  },
+  {
+    "diseaseName": "Black rot",
+    "precautions": ["Use certified disease-free seed", "Avoid overhead irrigation", "Practice 2-3 year crop rotation with non-cruciferous crops"],
+    "dosage": ["Spray Copper oxychloride (0.3%) at first sign of V-shaped yellow lesions", "Remove and destroy infected plant debris after harvest"],
+    "notes": "Bacterial disease affecting cabbage and related crops - spreads rapidly in warm, wet weather via water splash."
+  },
+  {
+    "diseaseName": "Clubroot",
+    "precautions": ["Raise soil pH above 7.2 with lime application if clubroot-prone", "Improve field drainage", "Avoid moving infected soil/tools between fields"],
+    "dosage": ["No curative chemical treatment - focus on prevention", "Soil fumigation is an option for severe, persistent infestations (specialist consultation recommended)"],
+    "notes": "A soil-borne pathogen that can persist in soil for years - affects cabbage and radish. Field-level prevention is the only practical management for a small farm."
+  },
+  {
+    "diseaseName": "Downy mildew",
+    "precautions": ["Improve air circulation and avoid waterlogging", "Avoid overhead irrigation, water early in the day if needed"],
+    "dosage": ["Spray Metalaxyl + Mancozeb (0.25%) at first sign of yellow patches with grey fungal growth underneath", "Repeat at 10-day intervals in humid weather"],
+    "notes": "Distinct from powdery mildew - look for fuzzy grey/purple growth on the underside of leaves. Affects cabbage, radish, onion, and cucumber."
+  },
+  {
+    "diseaseName": "Leaf curl virus",
+    "precautions": ["Control whitefly vector population with yellow sticky traps", "Remove and destroy infected plants promptly to reduce virus reservoir", "Use virus-free, certified seedlings"],
+    "dosage": ["No direct chemical cure for the virus itself", "Spray recommended insecticide against whitefly vector (e.g. Imidacloprid) to slow spread"],
+    "notes": "Transmitted by whiteflies - managing the insect vector is the only practical control, not the virus directly."
+  },
+  {
+    "diseaseName": "Root rot",
+    "precautions": ["Improve soil drainage, avoid waterlogging", "Avoid overwatering, especially in heavy soils", "Use well-draining potting mix for container plants"],
+    "dosage": ["Drench soil with Trichoderma-based biofungicide as a preventive measure", "For active infection, drench with Copper oxychloride (0.3%) and reduce watering frequency"],
+    "notes": "Almost always linked to overwatering or poor drainage rather than the pathogen alone. Affects marigold and carrot among others."
+  },
+  {
+    "diseaseName": "Botrytis blight",
+    "precautions": ["Remove spent flowers and blighted plant material promptly", "Avoid overhead watering and overcrowded planting", "Ensure good air circulation"],
+    "dosage": ["Spray a recommended fungicide (e.g. Mancozeb) at first sign of grey fuzzy mould", "Remove and destroy affected blooms immediately"],
+    "notes": "Thrives in cool, humid, poorly-ventilated conditions - often called 'grey mould'."
+  },
+  {
+    "diseaseName": "Black spot",
+    "precautions": ["Avoid overhead watering - water at the base of the plant", "Remove and destroy fallen infected leaves", "Prune for good air circulation"],
+    "dosage": ["Spray Mancozeb or Copper-based fungicide at 10-14 day intervals during humid weather", "Begin preventive spraying at the start of the growing season in high-risk areas"],
+    "notes": "The most common rose disease - persistent leaf removal (sanitation) is as important as spraying."
+  },
+  {
+    "diseaseName": "Die-back",
+    "precautions": ["Prune and destroy affected branches well below the visibly infected area", "Disinfect pruning tools between cuts", "Avoid water stress"],
+    "dosage": ["Apply Bordeaux paste to pruning wounds and cut surfaces", "Spray Copper oxychloride (0.3%) on the plant after pruning"],
+    "notes": "Often enters through pruning wounds or winter damage - clean pruning technique is a major preventive factor."
+  },
+  {
+    "diseaseName": "Panama wilt",
+    "precautions": ["Use disease-free tissue-culture planting material", "Avoid moving soil/water between infected and clean fields", "Improve field drainage"],
+    "dosage": ["No effective chemical cure - Fusarium persists in soil for decades", "Remove and destroy infected plants, avoid replanting bananas in the same spot"],
+    "notes": "Also called Fusarium wilt - one of the most destructive banana diseases worldwide, entirely soil-borne with no cure."
+  },
+  {
+    "diseaseName": "Sigatoka leaf spot",
+    "precautions": ["Remove and destroy heavily infected leaves (de-leafing)", "Improve plant spacing for airflow", "Avoid excess nitrogen fertilization"],
+    "dosage": ["Spray Propiconazole or Mancozeb-based fungicide at 3-4 week intervals in high-risk season", "Rotate fungicide types to avoid resistance build-up"],
+    "notes": "A major banana leaf disease that reduces photosynthetic area and yield - persistent fungicide rotation is standard commercial practice."
+  },
+  {
+    "diseaseName": "Bunchy top virus",
+    "precautions": ["Use only certified virus-free planting material (tissue culture)", "Control the banana aphid vector", "Remove and destroy infected plants immediately including the corm"],
+    "dosage": ["No chemical cure for the virus", "Spray recommended insecticide to control the aphid vector"],
+    "notes": "One of the most serious banana viral diseases - infected plants should be uprooted and destroyed, not just cut back, since the corm remains infectious."
+  },
+  {
+    "diseaseName": "Phomopsis blight",
+    "precautions": ["Use certified disease-free seed", "Avoid overhead irrigation", "Practice crop rotation with non-solanaceous crops"],
+    "dosage": ["Spray Mancozeb (0.25%) at 10-day intervals starting from early growth stage", "Remove and destroy infected fruit and plant debris"],
+    "notes": "Affects brinjal fruit and stems - can cause significant post-harvest fruit rot if not managed in the field."
+  },
+  {
+    "diseaseName": "Papaya ring spot virus",
+    "precautions": ["Control aphid vector population", "Remove and destroy infected plants promptly", "Avoid planting near other cucurbit/papaya crops with known infection"],
+    "dosage": ["No chemical cure for the virus itself", "Manage aphid vectors with recommended insecticide to slow spread"],
+    "notes": "One of the most economically damaging papaya diseases globally - aphid-transmitted, so vector control is the main practical management."
+  },
+  {
+    "diseaseName": "Coffee leaf rust",
+    "precautions": ["Use rust-resistant coffee varieties where available", "Maintain proper shade levels - both too much and too little shade increase risk", "Ensure balanced fertilization"],
+    "dosage": ["Spray Copper oxychloride (0.3%) preventively before monsoon", "Systemic fungicides (e.g. Triadimefon) can be used for established infections per label directions"],
+    "notes": "A historically devastating disease that reshaped global coffee production (it wiped out Sri Lanka's coffee industry in the 1800s) - preventive spraying before the rainy season is standard practice."
+  },
+  {
+    "diseaseName": "Coffee berry disease",
+    "precautions": ["Prune for good air circulation", "Harvest ripe berries promptly", "Remove and destroy infected berries and mummified fruit"],
+    "dosage": ["Spray Copper-based fungicide at flowering and again at pinhead berry stage", "Repeat during wet weather through berry development"],
+    "notes": "Causes direct crop loss by rotting berries rather than just damaging leaves - timing sprays to flowering/fruit-set stages is critical."
+  },
+  {
+    "diseaseName": "White rust",
+    "precautions": ["Avoid overhead irrigation", "Ensure good field drainage and spacing", "Remove and destroy infected leaves"],
+    "dosage": ["Spray Metalaxyl + Mancozeb (0.25%) at first sign of white pustules on leaf undersides", "Repeat at 10-day intervals in cool, humid weather"],
+    "notes": "Common on radish and other cruciferous vegetables in cool, humid conditions."
+  },
+  {
+    "diseaseName": "Root wilt disease",
+    "precautions": ["Maintain balanced fertilization, particularly potassium", "Improve drainage in low-lying coconut plots", "Remove and destroy severely affected palms to reduce spread"],
+    "dosage": ["No curative chemical treatment - management is nutritional and cultural", "Apply recommended balanced fertilizer schedule to improve palm tolerance"],
+    "notes": "A phytoplasma-associated coconut disease endemic to parts of southern India - management is long-term and cultural, not a quick fix."
+  },
+  {
+    "diseaseName": "Leaf rot",
+    "precautions": ["Improve drainage around the base of the palm", "Avoid mechanical injury to the crown", "Remove and destroy severely rotted leaves"],
+    "dosage": ["Apply Bordeaux paste to affected leaf bases", "Spray Copper oxychloride (0.3%) on the crown region during monsoon"],
+    "notes": "Often appears alongside root wilt disease in coconut, worsened by waterlogging and poor drainage."
+  },
+  {
+    "diseaseName": "Common scab",
+    "precautions": ["Maintain soil pH below 5.5 where scab-prone (scab thrives in alkaline soil)", "Avoid excess lime application", "Ensure even soil moisture during tuber formation"],
+    "dosage": ["No curative treatment for tubers already infected", "Choose scab-resistant potato varieties for future planting in affected soil"],
+    "notes": "A cosmetic/quality issue more than a yield-killer - management is almost entirely about soil pH and moisture, not spraying."
+  },
+  {
+    "diseaseName": "Purple blotch",
+    "precautions": ["Avoid overhead irrigation", "Ensure good field drainage and plant spacing", "Remove and destroy infected leaves"],
+    "dosage": ["Spray Mancozeb (0.25%) at 10-day intervals during humid weather", "Begin preventive spraying if extended wet weather is forecast"],
+    "notes": "A major onion foliar disease - purple-brown lesions with concentric rings are the identifying symptom."
+  },
+  {
+    "diseaseName": "Basal rot",
+    "precautions": ["Use certified disease-free sets/seedlings", "Avoid injury to bulbs during harvest and handling", "Improve field drainage"],
+    "dosage": ["No curative treatment once bulbs are infected", "Discard infected bulbs at harvest to prevent storage spread"],
+    "notes": "Primarily a storage and post-harvest concern for onion - prevention at planting and careful harvest handling matter more than any spray."
+  },
+  {
+    "diseaseName": "Yellow vein mosaic virus",
+    "precautions": ["Control whitefly vector with yellow sticky traps", "Remove and destroy infected plants promptly", "Use resistant/tolerant okra varieties where available"],
+    "dosage": ["No direct chemical cure for the virus", "Spray recommended insecticide against whitefly vector to slow spread"],
+    "notes": "One of the most common and damaging okra diseases in India - whitefly management is the primary practical control."
+  },
+  {
+    "diseaseName": "Rust",
+    "precautions": ["Avoid overhead irrigation", "Ensure good plant spacing for airflow", "Remove and destroy infected plant debris after harvest"],
+    "dosage": ["Spray Wettable sulfur (0.2%) or Mancozeb at first sign of orange-brown pustules", "Repeat at 10-14 day intervals in humid weather"],
+    "notes": "Common on French beans - orange-brown pustules on leaf undersides are the identifying symptom."
+  },
+  {
+    "diseaseName": "Bacterial blight",
+    "precautions": ["Use certified disease-free seed", "Avoid working in fields when plants are wet", "Practice crop rotation with non-host crops"],
+    "dosage": ["Spray Copper oxychloride (0.3%) at first sign of water-soaked lesions", "Remove and destroy infected plant debris after harvest"],
+    "notes": "Spreads rapidly via water splash and contaminated tools - avoiding field work on wet plants meaningfully reduces spread."
+  },
+  {
+    "diseaseName": "Mosaic virus",
+    "precautions": ["Control aphid vector population", "Remove and destroy infected plants promptly", "Disinfect tools between plants when handling suspected infections"],
+    "dosage": ["No chemical cure for the virus itself", "Manage aphid vectors with recommended insecticide to slow spread"],
+    "notes": "Common on cucumber and other cucurbits - mottled yellow-green leaf pattern is the identifying symptom."
+  },
+  {
+    "diseaseName": "Alternaria leaf blight",
+    "precautions": ["Avoid overhead irrigation", "Ensure good field drainage and plant spacing", "Remove and destroy infected foliage after harvest"],
+    "dosage": ["Spray Mancozeb (0.25%) at 10-day intervals during humid weather", "Begin preventive spraying if extended wet weather is forecast"],
+    "notes": "Common on carrot foliage - can reduce yield by weakening the plant even without directly damaging the root."
+  },
+  {
+    "diseaseName": "Quick wilt",
+    "precautions": ["Improve drainage around vine base", "Avoid waterlogging, especially during monsoon", "Use disease-free planting material"],
+    "dosage": ["Drench soil with Copper oxychloride (0.3%) or Metalaxyl-based fungicide around affected vines", "Remove and destroy severely wilted vines to prevent spread"],
+    "notes": "Also called Phytophthora foot rot - the most serious black pepper disease, can kill a vine within days in waterlogged conditions."
+  },
+  {
+    "diseaseName": "Slow wilt",
+    "precautions": ["Improve soil drainage and organic matter content", "Avoid nematode-infested planting material", "Maintain balanced fertilization"],
+    "dosage": ["Apply nematicide if root-knot nematodes are confirmed as a contributing factor", "No single quick chemical fix - focus on overall vine health and soil condition"],
+    "notes": "A slower-progressing decline than quick wilt, often linked to a combination of fungal pathogens, nematodes, and poor soil health."
+  },
+  {
+    "diseaseName": "Rhizome rot",
+    "precautions": ["Use disease-free, treated rhizomes for planting", "Ensure good field drainage - both ginger and turmeric are highly sensitive to waterlogging", "Practice crop rotation"],
+    "dosage": ["Treat seed rhizomes with a recommended fungicide (e.g. Mancozeb) before planting", "Drench soil with Copper oxychloride (0.3%) at first sign of yellowing/wilting"],
+    "notes": "The single most damaging ginger disease - most losses trace back to poor drainage rather than the pathogen itself."
+  },
+  {
+    "diseaseName": "Leaf spot",
+    "precautions": ["Avoid overhead irrigation", "Ensure good field drainage and plant spacing", "Remove and destroy infected foliage"],
+    "dosage": ["Spray Mancozeb (0.25%) or Copper oxychloride (0.3%) at 10-14 day intervals during humid weather"],
+    "notes": "A generic fungal leaf disease name used across several crops including ginger - specific pathogen identification helps if the standard spray doesn't improve symptoms within 2-3 applications."
+  }
+]

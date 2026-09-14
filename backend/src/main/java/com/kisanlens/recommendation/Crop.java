@@ -20,6 +20,17 @@ public class Crop {
     private double maxTemperature;
     private double minRainfallMm;
     private double maxRainfallMm;
+    private double minPh;
+    private double maxPh;
+    private double minHumidity;
+    private double maxHumidity;
+
+    // Informational only for now - the CNN doesn't predict pH or humidity,
+    // so these aren't wired into CropRecommendationEngine's scoring yet.
+    // They're here so the crop's full profile can be shown to the farmer
+    // and so a future version could ask the user for a soil test pH
+    // reading and score against it too.
+    private List<String> commonDiseases;
 
     public Crop() {
     }
@@ -78,5 +89,45 @@ public class Crop {
 
     public void setMaxRainfallMm(double maxRainfallMm) {
         this.maxRainfallMm = maxRainfallMm;
+    }
+
+    public double getMinPh() {
+        return minPh;
+    }
+
+    public void setMinPh(double minPh) {
+        this.minPh = minPh;
+    }
+
+    public double getMaxPh() {
+        return maxPh;
+    }
+
+    public void setMaxPh(double maxPh) {
+        this.maxPh = maxPh;
+    }
+
+    public double getMinHumidity() {
+        return minHumidity;
+    }
+
+    public void setMinHumidity(double minHumidity) {
+        this.minHumidity = minHumidity;
+    }
+
+    public double getMaxHumidity() {
+        return maxHumidity;
+    }
+
+    public void setMaxHumidity(double maxHumidity) {
+        this.maxHumidity = maxHumidity;
+    }
+
+    public List<String> getCommonDiseases() {
+        return commonDiseases;
+    }
+
+    public void setCommonDiseases(List<String> commonDiseases) {
+        this.commonDiseases = commonDiseases;
     }
 }

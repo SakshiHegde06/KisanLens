@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Arecanut",
+    "suitableSoilTypes": ["laterite", "red loamy"],
+    "minTemperature": 14, "maxTemperature": 36,
+    "minRainfallMm": 750, "maxRainfallMm": 4500,
+    "minPh": 5.5, "maxPh": 6.5,
+    "minHumidity": 60, "maxHumidity": 90,
+    "commonDiseases": ["Koleroga (Fruit rot)", "Yellow Leaf Disease", "Bud rot"]
+  },
+  {
+    "name": "Cashew",
+    "suitableSoilTypes": ["laterite", "sandy loam"],
+    "minTemperature": 20, "maxTemperature": 35,
+    "minRainfallMm": 1000, "maxRainfallMm": 2000,
+    "minPh": 5.0, "maxPh": 6.5,
+    "minHumidity": 60, "maxHumidity": 80,
+    "commonDiseases": ["Anthracnose", "Powdery mildew", "Tea mosquito bug damage"]
+  },
+  {
+    "name": "Tomato",
+    "suitableSoilTypes": ["loamy", "sandy loam"],
+    "minTemperature": 20, "maxTemperature": 27,
+    "minRainfallMm": 600, "maxRainfallMm": 1250,
+    "minPh": 6.0, "maxPh": 6.8,
+    "minHumidity": 50, "maxHumidity": 70,
+    "commonDiseases": ["Early blight", "Late blight", "Bacterial wilt"]
+  },
+  {
+    "name": "Cabbage",
+    "suitableSoilTypes": ["loamy", "clay loam"],
+    "minTemperature": 15, "maxTemperature": 20,
+    "minRainfallMm": 600, "maxRainfallMm": 1000,
+    "minPh": 6.0, "maxPh": 6.5,
+    "minHumidity": 60, "maxHumidity": 80,
+    "commonDiseases": ["Black rot", "Clubroot", "Downy mildew"]
+  },
+  {
+    "name": "Chilli",
+    "suitableSoilTypes": ["sandy loam", "loamy"],
+    "minTemperature": 20, "maxTemperature": 30,
+    "minRainfallMm": 600, "maxRainfallMm": 1250,
+    "minPh": 6.0, "maxPh": 7.0,
+    "minHumidity": 60, "maxHumidity": 70,
+    "commonDiseases": ["Anthracnose (fruit rot)", "Leaf curl virus", "Powdery mildew"]
+  },
+  {
+    "name": "Marigold",
+    "suitableSoilTypes": ["loamy"],
+    "minTemperature": 15, "maxTemperature": 29,
+    "minRainfallMm": 500, "maxRainfallMm": 750,
+    "minPh": 6.0, "maxPh": 7.5,
+    "minHumidity": 50, "maxHumidity": 70,
+    "commonDiseases": ["Root rot", "Powdery mildew", "Botrytis blight"]
+  },
+  {
+    "name": "Rose",
+    "suitableSoilTypes": ["loamy"],
+    "minTemperature": 15, "maxTemperature": 28,
+    "minRainfallMm": 600, "maxRainfallMm": 900,
+    "minPh": 6.0, "maxPh": 6.5,
+    "minHumidity": 60, "maxHumidity": 70,
+    "commonDiseases": ["Black spot", "Powdery mildew", "Die-back"]
+  },
+  {
+    "name": "Banana",
+    "suitableSoilTypes": ["loamy", "alluvial"],
+    "minTemperature": 15, "maxTemperature": 35,
+    "minRainfallMm": 1200, "maxRainfallMm": 2500,
+    "minPh": 6.0, "maxPh": 7.5,
+    "minHumidity": 60, "maxHumidity": 80,
+    "commonDiseases": ["Panama wilt", "Sigatoka leaf spot", "Bunchy top virus"]
+  },
+  {
+    "name": "Brinjal",
+    "suitableSoilTypes": ["loamy", "sandy loam"],
+    "minTemperature": 21, "maxTemperature": 30,
+    "minRainfallMm": 600, "maxRainfallMm": 1000,
+    "minPh": 5.5, "maxPh": 6.5,
+    "minHumidity": 50, "maxHumidity": 70,
+    "commonDiseases": ["Bacterial wilt", "Phomopsis blight"]
+  },
+  {
+    "name": "Papaya",
+    "suitableSoilTypes": ["sandy loam"],
+    "minTemperature": 22, "maxTemperature": 32,
+    "minRainfallMm": 1000, "maxRainfallMm": 1500,
+    "minPh": 6.0, "maxPh": 7.0,
+    "minHumidity": 60, "maxHumidity": 80,
+    "commonDiseases": ["Papaya ring spot virus", "Powdery mildew", "Anthracnose (fruit rot)"]
+  },
+  {
+    "name": "Coffee",
+    "suitableSoilTypes": ["laterite", "loamy"],
+    "minTemperature": 15, "maxTemperature": 28,
+    "minRainfallMm": 1500, "maxRainfallMm": 2500,
+    "minPh": 5.0, "maxPh": 6.5,
+    "minHumidity": 70, "maxHumidity": 80,
+    "commonDiseases": ["Coffee leaf rust", "Coffee berry disease"]
+  },
+  {
+    "name": "Radish",
+    "suitableSoilTypes": ["sandy loam"],
+    "minTemperature": 10, "maxTemperature": 25,
+    "minRainfallMm": 300, "maxRainfallMm": 500,
+    "minPh": 6.0, "maxPh": 7.0,
+    "minHumidity": 50, "maxHumidity": 70,
+    "commonDiseases": ["Clubroot", "Downy mildew", "White rust"]
+  },
+  {
+    "name": "Coconut",
+    "suitableSoilTypes": ["sandy loam", "laterite", "coastal alluvial"],
+    "minTemperature": 20, "maxTemperature": 36,
+    "minRainfallMm": 1300, "maxRainfallMm": 2300,
+    "minPh": 5.5, "maxPh": 7.5,
+    "minHumidity": 70, "maxHumidity": 90,
+    "commonDiseases": ["Bud rot", "Root wilt disease", "Leaf rot"]
+  },
+  {
+    "name": "Potato",
+    "suitableSoilTypes": ["sandy loam", "loamy"],
+    "minTemperature": 15, "maxTemperature": 20,
+    "minRainfallMm": 500, "maxRainfallMm": 700,
+    "minPh": 5.0, "maxPh": 6.5,
+    "minHumidity": 60, "maxHumidity": 70,
+    "commonDiseases": ["Late blight", "Early blight", "Common scab"]
+  },
+  {
+    "name": "Onion",
+    "suitableSoilTypes": ["sandy loam", "loamy"],
+    "minTemperature": 13, "maxTemperature": 24,
+    "minRainfallMm": 650, "maxRainfallMm": 750,
+    "minPh": 6.0, "maxPh": 7.5,
+    "minHumidity": 50, "maxHumidity": 70,
+    "commonDiseases": ["Purple blotch", "Downy mildew", "Basal rot"]
+  },
+  {
+    "name": "Okra",
+    "suitableSoilTypes": ["sandy loam", "loamy"],
+    "minTemperature": 24, "maxTemperature": 30,
+    "minRainfallMm": 600, "maxRainfallMm": 1000,
+    "minPh": 6.0, "maxPh": 6.8,
+    "minHumidity": 60, "maxHumidity": 70,
+    "commonDiseases": ["Yellow vein mosaic virus", "Powdery mildew", "Anthracnose (fruit rot)"]
+  },
+  {
+    "name": "French Beans",
+    "suitableSoilTypes": ["loamy"],
+    "minTemperature": 16, "maxTemperature": 24,
+    "minRainfallMm": 600, "maxRainfallMm": 1000,
+    "minPh": 6.0, "maxPh": 7.0,
+    "minHumidity": 50, "maxHumidity": 70,
+    "commonDiseases": ["Rust", "Anthracnose", "Bacterial blight"]
+  },
+  {
+    "name": "Cucumber",
+    "suitableSoilTypes": ["sandy loam", "loamy"],
+    "minTemperature": 18, "maxTemperature": 28,
+    "minRainfallMm": 600, "maxRainfallMm": 1000,
+    "minPh": 6.0, "maxPh": 7.0,
+    "minHumidity": 60, "maxHumidity": 70,
+    "commonDiseases": ["Downy mildew", "Powdery mildew", "Mosaic virus"]
+  },
+  {
+    "name": "Carrot",
+    "suitableSoilTypes": ["sandy loam"],
+    "minTemperature": 16, "maxTemperature": 24,
+    "minRainfallMm": 500, "maxRainfallMm": 700,
+    "minPh": 6.0, "maxPh": 6.8,
+    "minHumidity": 60, "maxHumidity": 70,
+    "commonDiseases": ["Alternaria leaf blight", "Root rot"]
+  },
+  {
+    "name": "Black Pepper",
+    "suitableSoilTypes": ["laterite", "loamy"],
+    "minTemperature": 15, "maxTemperature": 35,
+    "minRainfallMm": 1500, "maxRainfallMm": 2500,
+    "minPh": 5.5, "maxPh": 6.5,
+    "minHumidity": 70, "maxHumidity": 90,
+    "commonDiseases": ["Quick wilt", "Slow wilt", "Anthracnose"]
+  },
+  {
+    "name": "Ginger",
+    "suitableSoilTypes": ["sandy loam", "loamy"],
+    "minTemperature": 20, "maxTemperature": 30,
+    "minRainfallMm": 1500, "maxRainfallMm": 2000,
+    "minPh": 5.5, "maxPh": 6.5,
+    "minHumidity": 70, "maxHumidity": 80,
+    "commonDiseases": ["Rhizome rot", "Bacterial wilt", "Leaf spot"]
+  }
+]
