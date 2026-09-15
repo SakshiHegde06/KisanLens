@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Trained models are large binary files - don't commit them to git.
+# Each teammate should train locally/in Colab and drop their own copy here.
+app/weights/*.pt
+
+# Raw datasets are much too large for git and usually license-restricted
+# for redistribution anyway - download them fresh per the training script docstrings.
+training/datasets/*
+!training/datasets/.gitkeep

@@ -40,6 +40,16 @@
             <artifactId>spring-boot-starter-validation</artifactId>
         </dependency>
 
+        <!-- MultipartBodyBuilder (used in MlInferenceClient to call the ml-service)
+             references org.reactivestreams.Publisher internally. spring-boot-starter-web
+             alone doesn't bring reactive-streams onto the classpath since this app
+             isn't otherwise reactive - reactor-core pulls it in transitively.
+             Version is managed by spring-boot-starter-parent's BOM. -->
+        <dependency>
+            <groupId>io.projectreactor</groupId>
+            <artifactId>reactor-core</artifactId>
+        </dependency>
+
         <!-- JWT -->
         <dependency>
             <groupId>io.jsonwebtoken</groupId>
